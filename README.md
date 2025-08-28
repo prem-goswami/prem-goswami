@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Prem Goswami</h1>
-<h3 align="center">Full Stack Software Engineer & AWS Certified Solutions Architect</h3>
+<h3 align="center">If software features were pizza slices, I’d be the guy who delivers them hot, fresh, and 30%–70% faster than before. Full Stack Engineer with a knack for turning fintech, logistics, and insurance chaos into clean, scalable apps.</h3>
 
 <p align="center">
   <a href="https://premgoswami.netlify.app/" target="_blank">
@@ -72,16 +72,20 @@
 </div>
 
 ---
+## 📈 Contributions Graph
+
+[![prem-goswami's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prem-goswami&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prem-goswami&show_icons=true&theme=radical" alt="Prem's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prem-goswami&theme=radical" alt="Prem's GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prem-goswami&layout=compact&theme=radical" alt="Prem's Top Languages" />
 </p>
 
 ---
 
 ## 🚀 **Featured Projects**
+
+- [Cafe Finder](https://github.com/prem-goswami/Cafe-Finder)  
+  <em>Cafe Finder is a Sleek location based app for discovering cafes nearby. Built with reach and powered by google maps API. It features real time search ability to save favourite cafes and navigation to cafes.</em>
 
 - [Movies](https://github.com/prem-goswami/Movies)  
   <em>A comprehensive movie discovery platform showcasing modern front-end engineering. Developed with React, Vite, JavaScript, and CSS, it integrates seamlessly with a movie API to deliver real-time dynamic content. The project demonstrates advanced UI design, efficient state management, and responsive layouts—representing my proficiency in building robust, user-centric web applications.</em>
